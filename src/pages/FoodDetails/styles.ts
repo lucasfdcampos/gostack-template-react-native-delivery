@@ -107,6 +107,15 @@ export const AdittionalItemText = styled.Text`
   color: #6c6c80;
 `;
 
+export const AdittionalItemValueText = styled.Text`
+  font-family: 'Poppins-Regular';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffb84d;
+`;
+
 export const AdittionalQuantity = styled.View`
   display: flex;
   flex-direction: row;
